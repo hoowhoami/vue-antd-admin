@@ -1,0 +1,1 @@
+import{_ as e}from"./index-BGRhdYbt.js";import{W as t,a5 as r}from"./vue-nPfkdNmw.js";import"./antdv-BbttoKUq.js";const o={};function c(n,s){return t(),r("div",null," 个人中心 ")}const i=e(o,[["render",c]]);export{i as default};

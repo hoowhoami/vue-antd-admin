@@ -1,0 +1,1 @@
+import{ab as o}from"./antdv-BbttoKUq.js";import{W as n,X as e}from"./vue-nPfkdNmw.js";const m=Object.assign({name:"ComponentNotFound"},{__name:"comp-not-found",setup(a){return(s,r)=>{const t=o;return n(),e(t,{status:"warning",title:"当前路由缺失前端对应的路由组件导致无法正常显示，请联系开发人员或管理员！"})}}});export{m as default};
